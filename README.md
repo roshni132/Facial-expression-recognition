@@ -36,6 +36,8 @@ The custom CNN model (`FERModel`) is built using PyTorch's `nn.Module` and consi
 The model was trained for 30 epochs and showed consistent learning.
 - **Best Validation Accuracy:** **65.23%**
 
+- ![Model Accuracy Graph](graph.png)
+
 ## 🚀 How to Run
 1. Clone this repository.
 2. Install the required dependencies:
